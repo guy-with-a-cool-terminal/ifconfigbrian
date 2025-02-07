@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in cybersecurity and open-source projects. Here’s a glimpse of my contributions:
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ifconfigbrian/getbriansploited/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ifconfigbrian/getbriansploited/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/guy-with-a-cool-terminal/getbriansploited/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/guy-with-a-cool-terminal/getbriansploited/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ifconfigbrian)
+![Profile Views](https://komarev.com/ghpvc/?username=guy-with-a-cool-terminal)
 
 ### About Me
 - 🔭 I’m currently working on projects related to cybersecurity.
